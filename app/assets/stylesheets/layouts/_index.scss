@@ -1,0 +1,36 @@
+// Import your layouts CSS files here.
+// Examples:
+// @import "dashboard";
+// @import "profile";
+// @import "map";
+body {
+  background: #FFFFFF;
+  overflow-x: hidden;
+}
+.blue {
+  color: blue;
+}
+.blue:hover {
+  color: #0000cc;
+}
+.red {
+  color: red;
+}
+.red:hover {
+  color: #cc0000;
+}
+.yellow {
+  color: yellow;
+}
+.yellow:hover {
+  color: #cccc00;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,21 @@
+/* Main navbar */
+.airbnb-navbar {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 60px;
+  background: #F8F9FA;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+}
+.airbnb-navbar .title {
+  position: absolute;
+  left: 15px;
+}
+.airbnb-navbar .options {
+  position: absolute;
+  right: 15px;
+}

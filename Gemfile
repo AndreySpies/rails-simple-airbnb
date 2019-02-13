@@ -4,6 +4,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.5.3'
 
 gem 'autoprefixer-rails'
+gem 'bootstrap-sass'
+gem 'font-awesome-sass', '~> 5.0.9'
 gem 'jquery-rails'
 gem 'simple_form'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

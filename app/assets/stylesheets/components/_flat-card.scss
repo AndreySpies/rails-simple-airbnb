@@ -1,0 +1,27 @@
+.flat-card {
+  margin: 15px 5px;
+      box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+}
+.flat-img {
+  height: 185px;
+  width: 100%;
+}
+.flat-description {
+  margin: 0;
+  padding: 20px 10px;
+  width: 100%;
+  background: #f2f2f2;
+  font-size: 16px;
+  border-bottom: 2px solid #ededed;
+}
+.flat-card h3 {
+  margin: 5px 0;
+  font-size: 24px;
+}
+.flat-card span {
+  margin: 0 10px;
+  font-size: 18px;
+}
+.flat-control {
+  padding: 15px 10px;
+}
